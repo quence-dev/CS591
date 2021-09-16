@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertidor de Temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="how_is_the_temperature">Como esta la temperatura?</string>
+    <string name="its_cold">hace frío</string>
+    <string name="its_not_cold">no hace frío</string>
+</resources>

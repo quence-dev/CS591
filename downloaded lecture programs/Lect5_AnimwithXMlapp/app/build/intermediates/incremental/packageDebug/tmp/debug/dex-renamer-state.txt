@@ -1,0 +1,4 @@
+#Sun Oct 25 02:33:13 EDT 2020
+base.0=/Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

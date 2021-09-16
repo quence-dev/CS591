@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Info Demo</string>
+    <string-array name="menu_items">
+    <item>Movie</item>
+    <item>Actor</item>
+    <item>Filmography</item>
+    <item>Compare</item>
+</string-array>
+</resources>

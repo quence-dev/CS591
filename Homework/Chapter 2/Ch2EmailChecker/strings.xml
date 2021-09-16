@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Email Checker</string>
+
+    <string name="check">CHECK</string>
+    <string name="emailHint">enter email here</string>
+    <string name="label">LABEL</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">flashCards</string>
+    <string name="login">LOGIN</string>
+    <string name="simple_n_login">Simple \n Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="generate_10_random_problems">Generate 10 Random Problems</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="your_answer_here">Your Answer Here:</string>
+    <string name="answer_is">Answer is?</string>
+    <string name="submit">SUBMIT</string>
+</resources>

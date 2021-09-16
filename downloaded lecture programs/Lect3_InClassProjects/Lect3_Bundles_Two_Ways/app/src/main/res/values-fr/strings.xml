@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lect3_Bundles_Two_Ways</string>
+    <string name="french_fries">Frits</string>
+    <string name="onion_rings">Onion Rings in French</string>
+    <string name="hamburger">Hamburger in French</string>
+
+
+
+</resources>

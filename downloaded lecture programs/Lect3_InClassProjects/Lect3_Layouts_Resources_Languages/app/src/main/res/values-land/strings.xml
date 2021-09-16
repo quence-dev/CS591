@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lect3_Layouts_Resources_Languages</string>
+    <string name="i_love_pizza">I love pizza soooo much.</string>
+    <string name="i_do_not_like_ham">I do not like ham</string>
+    <string name="i_love_pizza2">i love mushroom pizza</string>
+    <string name="i_do_like_cookies">i do like cookies</string>
+
+
+</resources>

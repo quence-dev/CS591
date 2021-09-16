@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">W5_P3</string>
+    <string name="message_here">Message will appear here!</string>
+    <string name="enter_message">Enter Message:</string>
+</resources>

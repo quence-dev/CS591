@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">storyboardpanel3</string>
+    <string name="movie">Movie</string>
+    <string name="movieTitle">InsertMovieTitle</string>
+    <string name="rating">InsertRatingHere</string>
+    <string name="actor1">InsertActorName</string>
+    <string name="actor2">InsertActorName</string>
+    <string name="actor3">InsertActorName</string>
+    <string name="actor4">InsertActorName</string>
+    <string name="actor5">InsertActorName</string>
+</resources>

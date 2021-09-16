@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Game Show</string>
+    <string name="game_status">game status</string>
+    <string name="door_a">Door A</string>
+    <string name="door_c">Door C</string>
+    <string name="door_b">Door B</string>
+    <string name="end_game">End Game</string>
+    <string name="end_game_alt">Game Over</string>
+    <string name="prompt1">Please pick a door.</string>
+    <string name="prompt2">Current prize: </string>
+    <string name="prompt2_5">. Pick again?</string>
+    <string name="prompt3">You Win!</string>
+
+    <string-array name="prizes">
+        <item>$5 Gamestop coupon</item>
+        <item>2020 Porsche Cayenne</item>
+        <item>Pot Belly Pig</item>
+        <item>Tokyo Vacation</item>
+        <item>$5,000</item>
+    </string-array>
+</resources>

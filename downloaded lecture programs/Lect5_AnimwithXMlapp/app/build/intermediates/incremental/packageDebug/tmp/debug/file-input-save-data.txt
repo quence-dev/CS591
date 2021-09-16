@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 20 16:20:43 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

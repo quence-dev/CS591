@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter9_Problem26</string>
+
+    <string name="bottom_fragment">bottom fragment</string>
+    <string name="edit_text"></string>
+    <string name="button">Enter</string>
+
+    <string name="top_fragment">top fragment</string>
+    <string name="msg">Guess a number from 1-5.</string>
+</resources>

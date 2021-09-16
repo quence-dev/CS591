@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.sse.startactivityforresult_sse.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Convert Speech To Text:"
+        android:id="@+id/textView"
+        android:hint="&lt;Translated Text>"
+        android:textStyle="bold"
+        android:layout_margin="4dp" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/btnTakePicture"
+        android:src="@drawable/camera"
+        android:scaleType="fitCenter"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/btnSpeechToText"
+        android:src="@drawable/speechtotext2"
+        android:scaleType="fitCenter"
+        android:layout_alignTop="@+id/btnTakePicture"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/btnTakeVideo"
+        android:src="@drawable/video"
+        android:scaleType="fitCenter"
+        android:layout_alignTop="@+id/btnSpeechToText"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="120dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/edtSpeechToText"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryDark"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="4dp"
+        android:textSize="40dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear Text"
+        android:id="@+id/btnClearText"
+        android:layout_alignTop="@+id/textView"
+        android:layout_toEndOf="@+id/btnSpeechToText" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:id="@+id/imgPhoto"
+        android:layout_above="@+id/btnTakePicture"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="23dp"
+        android:src="@drawable/videocameraman" />
+
+    <VideoView
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:id="@+id/vidVideo"
+        android:layout_alignTop="@+id/imgPhoto"
+        android:layout_toEndOf="@+id/imgPhoto"
+        android:layout_marginLeft="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Photo Output"
+        android:id="@+id/textView2"
+        android:hint="&lt;Translated Text>"
+        android:textStyle="bold"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_toStartOf="@+id/vidVideo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Video Output"
+        android:id="@+id/textView3"
+        android:hint="&lt;Translated Text>"
+        android:textStyle="bold"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_above="@+id/vidVideo"
+        android:layout_toEndOf="@+id/btnSpeechToText" />
+
+</RelativeLayout>

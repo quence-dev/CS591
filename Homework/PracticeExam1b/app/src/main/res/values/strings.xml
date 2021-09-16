@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice Exam 1b</string>
+    <string name="echo_button">Echo</string>
+    <string name="echo_text">Enter Text Here</string>
+</resources>

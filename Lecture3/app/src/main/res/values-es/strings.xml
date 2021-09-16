@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lectura 3</string>
+
+    <string name="french_fries">Papas Fritas</string>
+    <string name="hamburger">Hamburgesa</string>
+    <string name="onion_rings">Circulos de Cebolla</string>
+    <string name="total">Total:</string>
+    <string name="btn_next">Next>> </string>
+</resources>

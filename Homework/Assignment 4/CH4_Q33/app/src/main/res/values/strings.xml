@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CH4_Q33</string>
+    <string name="enter_text_to_be_encrypted">Enter Text to be Encrypted:</string>
+    <string name="encrypted_word_here">Encrypted Word Here</string>
+    <string name="result_will_show_here">Result will show here</string>
+    <string name="ceasar_shift">Caesar Shift</string>
+    <string name="set_shift">Set Shift</string>
+    <string name="current_shift_modulized">Current shift (Modulized) =</string>
+    <string name="encrypt">Encrypt</string>
+</resources>

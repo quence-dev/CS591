@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Quence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ea65748e3377544cb0d23e6afab1aecf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/302e6c418b8b2020daa63c0018a457d4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/70cb8cc217953705e09fae7e6eb309db/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3fc923fe55b6a84ec6a3722dcb041009/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/ef87a3e7ad67d64a718c473ae26ac30a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/a1a8e9b01ea2ee80eb657bd6de2e3f63/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/ed1b8264436d981fa0308a5a748fecfa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/55afa67af573fd6480b457edf3d55a8d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/9e0fa26c41c472468945d177ccbe487d/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Quence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ea65748e3377544cb0d23e6afab1aecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Quence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ea65748e3377544cb0d23e6afab1aecf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/302e6c418b8b2020daa63c0018a457d4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/302e6c418b8b2020daa63c0018a457d4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/70cb8cc217953705e09fae7e6eb309db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/70cb8cc217953705e09fae7e6eb309db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3fc923fe55b6a84ec6a3722dcb041009/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3fc923fe55b6a84ec6a3722dcb041009/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/ef87a3e7ad67d64a718c473ae26ac30a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/ef87a3e7ad67d64a718c473ae26ac30a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/a1a8e9b01ea2ee80eb657bd6de2e3f63/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/a1a8e9b01ea2ee80eb657bd6de2e3f63/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/ed1b8264436d981fa0308a5a748fecfa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/ed1b8264436d981fa0308a5a748fecfa/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/55afa67af573fd6480b457edf3d55a8d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/55afa67af573fd6480b457edf3d55a8d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/9e0fa26c41c472468945d177ccbe487d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/9e0fa26c41c472468945d177ccbe487d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/bc4f5c8cc1de6617eac63bc1d7d348b2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Quence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ea65748e3377544cb0d23e6afab1aecf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Quence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ea65748e3377544cb0d23e6afab1aecf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/302e6c418b8b2020daa63c0018a457d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/302e6c418b8b2020daa63c0018a457d4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/70cb8cc217953705e09fae7e6eb309db/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/70cb8cc217953705e09fae7e6eb309db/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3fc923fe55b6a84ec6a3722dcb041009/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3fc923fe55b6a84ec6a3722dcb041009/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/ef87a3e7ad67d64a718c473ae26ac30a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/ef87a3e7ad67d64a718c473ae26ac30a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/a1a8e9b01ea2ee80eb657bd6de2e3f63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/a1a8e9b01ea2ee80eb657bd6de2e3f63/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/ed1b8264436d981fa0308a5a748fecfa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/ed1b8264436d981fa0308a5a748fecfa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/55afa67af573fd6480b457edf3d55a8d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/55afa67af573fd6480b457edf3d55a8d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/9e0fa26c41c472468945d177ccbe487d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/Quence/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/9e0fa26c41c472468945d177ccbe487d/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:15:9-40
+activity#dev.Androidapplink.animwithxml.MainActivity
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:17:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Quence/Documents/cs591/downloaded lecture programs/Lect5_AnimwithXMlapp/app/src/main/AndroidManifest.xml:22:27-74

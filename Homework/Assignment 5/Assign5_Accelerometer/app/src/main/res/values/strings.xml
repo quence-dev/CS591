@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assign5_Accelerometer</string>
+    <string name="tvdeltax">tvDeltaX</string>
+    <string name="tvdeltay">tvDeltaY</string>
+    <string name="tvdeltaz">tvDeltaZ</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Braniac</string>
+
+    <string name="un_hint" tools:ignore="MissingTranslation">Username</string>
+    <string name="pw_hint" tools:ignore="MissingTranslation">Password</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="btnRestart" tools:ignore="MissingTranslation">Start Over</string>
+    <string name="btnEnter" tools:ignore="MissingTranslation">Submit</string>
+    <string name="welcome">Welcome, </string>
+    <string name="try_again">Please try again.</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>

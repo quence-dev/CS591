@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password Checker</string>
+
+    <string name="labelStart">LABEL</string>
+    <string name="pwdHint0">enter 1st pwd here</string>
+    <string name="pwdHint1">enter 2nd pwd here</string>
+    <string name="check">CHECK</string>
+</resources>

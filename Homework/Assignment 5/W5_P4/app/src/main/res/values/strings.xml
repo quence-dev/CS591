@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterFragmentCommRatingBar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="leftButton"> LEFT </string>
+    <string name="rightButton"> RIGHT </string>
+</resources>

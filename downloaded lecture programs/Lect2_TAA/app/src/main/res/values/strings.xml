@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lect2_TAA</string>
+
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>

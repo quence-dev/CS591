@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lect3_Layouts_Resources_Languages</string>
+    <string name="i_love_pizza">Yo Amo la pizza</string>
+    <string name="i_do_not_like_ham">Yo No Amo el Jamon</string>
+    <string name="i_love_pizza2">Yo Amo champinyones pizza</string>
+    <string name="i_do_like_cookies">Yo Amo las galletas </string>6
+</resources>

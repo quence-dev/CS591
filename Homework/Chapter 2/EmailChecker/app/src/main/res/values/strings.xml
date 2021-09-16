@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailChecker</string>
+
+    <string name="button">check</string>
+    <string name="email_hint">johndoe@gmail.com</string>
+    <string name="message">LABEL</string>
+</resources>

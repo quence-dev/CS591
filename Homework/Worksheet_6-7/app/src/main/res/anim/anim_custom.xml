@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><!--    //Implement an animation that lasts 8 seconds in total.-->
+<!--    //start with a view object that is centered on the screen, you choose the view.-->
+<!--    //for 0-2 seconds the object should grow from the center, doubling in size.-->
+<!--    //for 1-4 seconds the object should rotate 3 times in total, pivot in the bottom left corner.-->
+<!--    //for 4-5 seconds the object should bounce-->
+<!--    //for 5-6 seconds the object should slide down then back to center-->
+<!--    //for 6-7 seconds the object should slide left then back to center-->
+<!--    //for 7-8 seconds the object should slide up then back to center.-->
+<!--    //also for 7-8 seconds the object should revert back to its original size, also pivoting from the center.-->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+
+    <!--    //for 0-2 seconds the object should grow from the center, doubling in size.-->
+    <scale
+        android:duration="2000"
+        android:fromXScale="1"
+        android:fromYScale="1"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="2"
+        android:toYScale="2" />
+    <!--    //for 1-4 seconds the object should rotate 3 times in total, pivot in the bottom left corner.-->
+    <rotate
+        android:duration="1000"
+        android:startOffset="1000"
+        android:fromDegrees="0"
+        android:interpolator="@android:anim/cycle_interpolator"
+        android:pivotX="0%"
+        android:pivotY="100%"
+        android:toDegrees="360" />
+    <rotate
+        android:duration="1000"
+        android:startOffset="2000"
+        android:fromDegrees="0"
+        android:interpolator="@android:anim/cycle_interpolator"
+        android:pivotX="0%"
+        android:pivotY="100%"
+        android:toDegrees="360" />
+    <rotate
+        android:duration="1000"
+        android:startOffset="3000"
+        android:fromDegrees="0"
+        android:interpolator="@android:anim/cycle_interpolator"
+        android:pivotX="0%"
+        android:pivotY="100%"
+        android:toDegrees="360" />
+    <!--    //for 4-5 seconds the object should bounce-->
+    <scale
+        android:duration="500"
+        android:startOffset="4000"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:interpolator="@android:anim/bounce_interpolator"
+        android:toXScale="1.0"
+        android:toYScale="0.1" />
+    <scale
+        android:duration="500"
+        android:startOffset="4500"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:interpolator="@android:anim/bounce_interpolator"
+        android:toXScale="1.0"
+        android:toYScale="10" />
+    <!--    //for 5-6 seconds the object should slide down then back to center-->
+    <translate
+        android:duration="500"
+        android:startOffset="5000"
+        android:fromYDelta="0%p"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:toYDelta="25%p" />
+    <translate
+        android:duration="500"
+        android:startOffset="5500"
+        android:fromYDelta="0%p"
+        android:interpolator="@android:anim/linear_interpolator"
+        android:toYDelta="-25%p" />
+        <!--    //for 6-7 seconds the object should slide left then back to center-->
+        <translate
+            android:duration="500"
+            android:fromXDelta="0%p"
+            android:interpolator="@android:anim/linear_interpolator"
+            android:startOffset="6000"
+            android:toXDelta="-25%p" />
+        <translate
+            android:duration="500"
+            android:fromXDelta="0%p"
+            android:interpolator="@android:anim/linear_interpolator"
+            android:startOffset="6500"
+            android:toXDelta="25%p" />
+        <!--    //for 7-8 seconds the object should slide up then back to center.-->
+        <translate
+            android:duration="500"
+            android:fromYDelta="0%p"
+            android:interpolator="@android:anim/linear_interpolator"
+            android:startOffset="7000"
+            android:toYDelta="-25%p" />
+        <translate
+            android:duration="500"
+            android:fromYDelta="0%p"
+            android:interpolator="@android:anim/linear_interpolator"
+            android:startOffset="7500"
+            android:toYDelta="25%p" />
+        <scale
+            android:duration="1000"
+            android:startOffset="7000"
+            android:fromXScale="1"
+            android:fromYScale="1"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toXScale="0.5"
+            android:toYScale="0.5" />
+</set>

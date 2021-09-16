@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <HorizontalScrollView
+
+        android:id="@+id/hsv"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:fillViewport="true"
+        android:measureAllChildren="false"
+        android:scrollbars="none"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="@id/movieTitle"
+        app:layout_constraintVertical_bias="0.604"
+        app:layout_constraintHorizontal_bias="0.043">
+
+        <LinearLayout
+            android:id="@+id/innerLay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/cast1"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:background="#c1c1c1"
+                app:srcCompat="@drawable/elijah" />
+
+            <ImageView
+                android:id="@+id/cast2"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/b" />
+
+            <ImageView
+                android:id="@+id/cast3"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/c" />
+
+            <ImageView
+                android:id="@+id/cast4"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/d" />
+
+            <ImageView
+                android:id="@+id/cast5"
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:background="#c1c1c1"
+                android:src="@drawable/e" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/movie"
+        android:layout_width="44dp"
+        android:layout_height="23dp"
+        android:text="@string/movie"
+        app:layout_constraintBottom_toTopOf="@+id/movieTitle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:layout_constraintVertical_bias="0.651" />
+
+    <TextView
+        android:id="@+id/movieTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="144dp"
+        android:text="@string/movieTitle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.122"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <ImageView
+        android:id="@+id/moviePoster"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:layout_constraintBottom_toTopOf="@+id/hsv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.636"
+        app:layout_constraintStart_toEndOf="@+id/movieTitle"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:layout_constraintVertical_bias="0.25"
+        app:srcCompat="@android:drawable/ic_menu_slideshow" />
+
+    <TextView
+        android:id="@+id/rating"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/rating"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hsv"
+        tools:layout_editor_absoluteX="140dp"
+        android:onClick="clicktoreadmore"
+        android:clickable="true"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

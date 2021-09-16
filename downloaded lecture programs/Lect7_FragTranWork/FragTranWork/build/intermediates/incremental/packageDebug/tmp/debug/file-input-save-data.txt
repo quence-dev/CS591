@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Oct 20 16:40:14 EDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect7_FragTranWork\\FragTranWork\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+0.path=classes.dex
+0.set=DEX
+count=1

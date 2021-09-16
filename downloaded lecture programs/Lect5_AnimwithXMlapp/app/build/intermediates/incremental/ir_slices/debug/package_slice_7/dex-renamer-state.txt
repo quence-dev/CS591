@@ -1,0 +1,4 @@
+#Mon Oct 07 21:38:28 EDT 2019
+base.0=C\:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex
